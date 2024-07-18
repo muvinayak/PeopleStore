@@ -1,0 +1,696 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dotnetApps\\PeopleStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D071C6B3-AD06-427B-AD72-A098A982E889}|PeopleStore.Server\\PeopleStore.Server.csproj|c:\\dotnetapps\\peoplestore\\peoplestore.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D071C6B3-AD06-427B-AD72-A098A982E889}|PeopleStore.Server\\PeopleStore.Server.csproj|solutionrelative:peoplestore.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C3E8E2-7C23-4B20-885F-62177973CD52}|peoplestore.client\\peoplestore.client.esproj|c:\\dotnetapps\\peoplestore\\peoplestore.client\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{62C3E8E2-7C23-4B20-885F-62177973CD52}|peoplestore.client\\peoplestore.client.esproj|solutionrelative:peoplestore.client\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D071C6B3-AD06-427B-AD72-A098A982E889}|PeopleStore.Server\\PeopleStore.Server.csproj|c:\\dotnetapps\\peoplestore\\peoplestore.server\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D071C6B3-AD06-427B-AD72-A098A982E889}|PeopleStore.Server\\PeopleStore.Server.csproj|solutionrelative:peoplestore.server\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D071C6B3-AD06-427B-AD72-A098A982E889}|PeopleStore.Server\\PeopleStore.Server.csproj|c:\\dotnetapps\\peoplestore\\peoplestore.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D071C6B3-AD06-427B-AD72-A098A982E889}|PeopleStore.Server\\PeopleStore.Server.csproj|solutionrelative:peoplestore.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D071C6B3-AD06-427B-AD72-A098A982E889}|PeopleStore.Server\\PeopleStore.Server.csproj|c:\\dotnetapps\\peoplestore\\peoplestore.server\\peoplestore.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D071C6B3-AD06-427B-AD72-A098A982E889}|PeopleStore.Server\\PeopleStore.Server.csproj|solutionrelative:peoplestore.server\\peoplestore.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D071C6B3-AD06-427B-AD72-A098A982E889}|PeopleStore.Server\\PeopleStore.Server.csproj|c:\\dotnetapps\\peoplestore\\peoplestore.server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D071C6B3-AD06-427B-AD72-A098A982E889}|PeopleStore.Server\\PeopleStore.Server.csproj|solutionrelative:peoplestore.server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D071C6B3-AD06-427B-AD72-A098A982E889}|PeopleStore.Server\\PeopleStore.Server.csproj|c:\\dotnetapps\\peoplestore\\peoplestore.server\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D071C6B3-AD06-427B-AD72-A098A982E889}|PeopleStore.Server\\PeopleStore.Server.csproj|solutionrelative:peoplestore.server\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D071C6B3-AD06-427B-AD72-A098A982E889}|PeopleStore.Server\\PeopleStore.Server.csproj|c:\\dotnetapps\\peoplestore\\peoplestore.server\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D071C6B3-AD06-427B-AD72-A098A982E889}|PeopleStore.Server\\PeopleStore.Server.csproj|solutionrelative:peoplestore.server\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D071C6B3-AD06-427B-AD72-A098A982E889}|PeopleStore.Server\\PeopleStore.Server.csproj|c:\\dotnetapps\\peoplestore\\peoplestore.server\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D071C6B3-AD06-427B-AD72-A098A982E889}|PeopleStore.Server\\PeopleStore.Server.csproj|solutionrelative:peoplestore.server\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D071C6B3-AD06-427B-AD72-A098A982E889}|PeopleStore.Server\\PeopleStore.Server.csproj|c:\\dotnetapps\\peoplestore\\peoplestore.server\\services\\productsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D071C6B3-AD06-427B-AD72-A098A982E889}|PeopleStore.Server\\PeopleStore.Server.csproj|solutionrelative:peoplestore.server\\services\\productsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D071C6B3-AD06-427B-AD72-A098A982E889}|PeopleStore.Server\\PeopleStore.Server.csproj|c:\\dotnetapps\\peoplestore\\peoplestore.server\\services\\categoriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D071C6B3-AD06-427B-AD72-A098A982E889}|PeopleStore.Server\\PeopleStore.Server.csproj|solutionrelative:peoplestore.server\\services\\categoriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D071C6B3-AD06-427B-AD72-A098A982E889}|PeopleStore.Server\\PeopleStore.Server.csproj|c:\\dotnetapps\\peoplestore\\peoplestore.server\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D071C6B3-AD06-427B-AD72-A098A982E889}|PeopleStore.Server\\PeopleStore.Server.csproj|solutionrelative:peoplestore.server\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D071C6B3-AD06-427B-AD72-A098A982E889}|PeopleStore.Server\\PeopleStore.Server.csproj|c:\\dotnetapps\\peoplestore\\peoplestore.server\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D071C6B3-AD06-427B-AD72-A098A982E889}|PeopleStore.Server\\PeopleStore.Server.csproj|solutionrelative:peoplestore.server\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D071C6B3-AD06-427B-AD72-A098A982E889}|PeopleStore.Server\\PeopleStore.Server.csproj|c:\\dotnetapps\\peoplestore\\peoplestore.server\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D071C6B3-AD06-427B-AD72-A098A982E889}|PeopleStore.Server\\PeopleStore.Server.csproj|solutionrelative:peoplestore.server\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D071C6B3-AD06-427B-AD72-A098A982E889}|PeopleStore.Server\\PeopleStore.Server.csproj|c:\\dotnetapps\\peoplestore\\peoplestore.server\\data\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D071C6B3-AD06-427B-AD72-A098A982E889}|PeopleStore.Server\\PeopleStore.Server.csproj|solutionrelative:peoplestore.server\\data\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D071C6B3-AD06-427B-AD72-A098A982E889}|PeopleStore.Server\\PeopleStore.Server.csproj|c:\\dotnetapps\\peoplestore\\peoplestore.server\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D071C6B3-AD06-427B-AD72-A098A982E889}|PeopleStore.Server\\PeopleStore.Server.csproj|solutionrelative:peoplestore.server\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D071C6B3-AD06-427B-AD72-A098A982E889}|PeopleStore.Server\\PeopleStore.Server.csproj|c:\\dotnetapps\\peoplestore\\peoplestore.server\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D071C6B3-AD06-427B-AD72-A098A982E889}|PeopleStore.Server\\PeopleStore.Server.csproj|solutionrelative:peoplestore.server\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D071C6B3-AD06-427B-AD72-A098A982E889}|PeopleStore.Server\\PeopleStore.Server.csproj|c:\\dotnetapps\\peoplestore\\peoplestore.server\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D071C6B3-AD06-427B-AD72-A098A982E889}|PeopleStore.Server\\PeopleStore.Server.csproj|solutionrelative:peoplestore.server\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D071C6B3-AD06-427B-AD72-A098A982E889}|PeopleStore.Server\\PeopleStore.Server.csproj|c:\\dotnetapps\\peoplestore\\peoplestore.server\\controllers\\logoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D071C6B3-AD06-427B-AD72-A098A982E889}|PeopleStore.Server\\PeopleStore.Server.csproj|solutionrelative:peoplestore.server\\controllers\\logoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D071C6B3-AD06-427B-AD72-A098A982E889}|PeopleStore.Server\\PeopleStore.Server.csproj|c:\\dotnetapps\\peoplestore\\peoplestore.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D071C6B3-AD06-427B-AD72-A098A982E889}|PeopleStore.Server\\PeopleStore.Server.csproj|solutionrelative:peoplestore.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C3E8E2-7C23-4B20-885F-62177973CD52}|peoplestore.client\\peoplestore.client.esproj|c:\\dotnetapps\\peoplestore\\peoplestore.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{62C3E8E2-7C23-4B20-885F-62177973CD52}|peoplestore.client\\peoplestore.client.esproj|solutionrelative:peoplestore.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C3E8E2-7C23-4B20-885F-62177973CD52}|peoplestore.client\\peoplestore.client.esproj|c:\\dotnetapps\\peoplestore\\peoplestore.client\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{62C3E8E2-7C23-4B20-885F-62177973CD52}|peoplestore.client\\peoplestore.client.esproj|solutionrelative:peoplestore.client\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C3E8E2-7C23-4B20-885F-62177973CD52}|peoplestore.client\\peoplestore.client.esproj|c:\\dotnetapps\\peoplestore\\peoplestore.client\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{62C3E8E2-7C23-4B20-885F-62177973CD52}|peoplestore.client\\peoplestore.client.esproj|solutionrelative:peoplestore.client\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C3E8E2-7C23-4B20-885F-62177973CD52}|peoplestore.client\\peoplestore.client.esproj|c:\\dotnetapps\\peoplestore\\peoplestore.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{62C3E8E2-7C23-4B20-885F-62177973CD52}|peoplestore.client\\peoplestore.client.esproj|solutionrelative:peoplestore.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C3E8E2-7C23-4B20-885F-62177973CD52}|peoplestore.client\\peoplestore.client.esproj|c:\\dotnetapps\\peoplestore\\peoplestore.client\\src\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{62C3E8E2-7C23-4B20-885F-62177973CD52}|peoplestore.client\\peoplestore.client.esproj|solutionrelative:peoplestore.client\\src\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C3E8E2-7C23-4B20-885F-62177973CD52}|peoplestore.client\\peoplestore.client.esproj|c:\\dotnetapps\\peoplestore\\peoplestore.client\\src\\app.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62C3E8E2-7C23-4B20-885F-62177973CD52}|peoplestore.client\\peoplestore.client.esproj|solutionrelative:peoplestore.client\\src\\app.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C3E8E2-7C23-4B20-885F-62177973CD52}|peoplestore.client\\peoplestore.client.esproj|c:\\dotnetapps\\peoplestore\\peoplestore.client\\src\\store\\cart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{62C3E8E2-7C23-4B20-885F-62177973CD52}|peoplestore.client\\peoplestore.client.esproj|solutionrelative:peoplestore.client\\src\\store\\cart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C3E8E2-7C23-4B20-885F-62177973CD52}|peoplestore.client\\peoplestore.client.esproj|c:\\dotnetapps\\peoplestore\\peoplestore.client\\src\\components\\userregistration.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62C3E8E2-7C23-4B20-885F-62177973CD52}|peoplestore.client\\peoplestore.client.esproj|solutionrelative:peoplestore.client\\src\\components\\userregistration.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C3E8E2-7C23-4B20-885F-62177973CD52}|peoplestore.client\\peoplestore.client.esproj|c:\\dotnetapps\\peoplestore\\peoplestore.client\\src\\components\\notfound.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62C3E8E2-7C23-4B20-885F-62177973CD52}|peoplestore.client\\peoplestore.client.esproj|solutionrelative:peoplestore.client\\src\\components\\notfound.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C3E8E2-7C23-4B20-885F-62177973CD52}|peoplestore.client\\peoplestore.client.esproj|c:\\dotnetapps\\peoplestore\\peoplestore.client\\src\\components\\myaccount.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62C3E8E2-7C23-4B20-885F-62177973CD52}|peoplestore.client\\peoplestore.client.esproj|solutionrelative:peoplestore.client\\src\\components\\myaccount.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C3E8E2-7C23-4B20-885F-62177973CD52}|peoplestore.client\\peoplestore.client.esproj|c:\\dotnetapps\\peoplestore\\peoplestore.client\\src\\components\\home.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62C3E8E2-7C23-4B20-885F-62177973CD52}|peoplestore.client\\peoplestore.client.esproj|solutionrelative:peoplestore.client\\src\\components\\home.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C3E8E2-7C23-4B20-885F-62177973CD52}|peoplestore.client\\peoplestore.client.esproj|c:\\dotnetapps\\peoplestore\\peoplestore.client\\src\\assets\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{62C3E8E2-7C23-4B20-885F-62177973CD52}|peoplestore.client\\peoplestore.client.esproj|solutionrelative:peoplestore.client\\src\\assets\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C3E8E2-7C23-4B20-885F-62177973CD52}|peoplestore.client\\peoplestore.client.esproj|c:\\dotnetapps\\peoplestore\\peoplestore.client\\src\\assets\\logo.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{62C3E8E2-7C23-4B20-885F-62177973CD52}|peoplestore.client\\peoplestore.client.esproj|solutionrelative:peoplestore.client\\src\\assets\\logo.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C3E8E2-7C23-4B20-885F-62177973CD52}|peoplestore.client\\peoplestore.client.esproj|c:\\dotnetapps\\peoplestore\\peoplestore.client\\src\\assets\\base.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{62C3E8E2-7C23-4B20-885F-62177973CD52}|peoplestore.client\\peoplestore.client.esproj|solutionrelative:peoplestore.client\\src\\assets\\base.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C3E8E2-7C23-4B20-885F-62177973CD52}|peoplestore.client\\peoplestore.client.esproj|c:\\dotnetapps\\peoplestore\\peoplestore.client\\public\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{62C3E8E2-7C23-4B20-885F-62177973CD52}|peoplestore.client\\peoplestore.client.esproj|solutionrelative:peoplestore.client\\public\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C3E8E2-7C23-4B20-885F-62177973CD52}|peoplestore.client\\peoplestore.client.esproj|c:\\dotnetapps\\peoplestore\\peoplestore.client\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{62C3E8E2-7C23-4B20-885F-62177973CD52}|peoplestore.client\\peoplestore.client.esproj|solutionrelative:peoplestore.client\\.vscode\\launch.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D071C6B3-AD06-427B-AD72-A098A982E889}|PeopleStore.Server\\PeopleStore.Server.csproj|c:\\dotnetapps\\peoplestore\\peoplestore.server\\peoplestore.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D071C6B3-AD06-427B-AD72-A098A982E889}|PeopleStore.Server\\PeopleStore.Server.csproj|solutionrelative:peoplestore.server\\peoplestore.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C3E8E2-7C23-4B20-885F-62177973CD52}|peoplestore.client\\peoplestore.client.esproj|c:\\dotnetapps\\peoplestore\\peoplestore.client\\jsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{62C3E8E2-7C23-4B20-885F-62177973CD52}|peoplestore.client\\peoplestore.client.esproj|solutionrelative:peoplestore.client\\jsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\dotnetApps\\PeopleStore\\peoplestore.client\\node_modules\\@vue\\reactivity\\dist\\reactivity.esm-bundler.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:peoplestore.client\\node_modules\\@vue\\reactivity\\dist\\reactivity.esm-bundler.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62C3E8E2-7C23-4B20-885F-62177973CD52}|peoplestore.client\\peoplestore.client.esproj|c:\\dotnetapps\\peoplestore\\peoplestore.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62C3E8E2-7C23-4B20-885F-62177973CD52}|peoplestore.client\\peoplestore.client.esproj|solutionrelative:peoplestore.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\dotnetApps\\PeopleStore\\PeopleStore.Server\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "PeopleStore.Server\\appsettings.Development.json",
+              "ToolTip": "C:\\dotnetApps\\PeopleStore\\PeopleStore.Server\\appsettings.Development.json",
+              "RelativeToolTip": "PeopleStore.Server\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-18T02:57:57.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PeopleStore.Server.http",
+              "DocumentMoniker": "C:\\dotnetApps\\PeopleStore\\PeopleStore.Server\\PeopleStore.Server.http",
+              "RelativeDocumentMoniker": "PeopleStore.Server\\PeopleStore.Server.http",
+              "ToolTip": "C:\\dotnetApps\\PeopleStore\\PeopleStore.Server\\PeopleStore.Server.http",
+              "RelativeToolTip": "PeopleStore.Server\\PeopleStore.Server.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-06-30T16:22:33.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dotnetApps\\PeopleStore\\PeopleStore.Server\\Program.cs",
+              "RelativeDocumentMoniker": "PeopleStore.Server\\Program.cs",
+              "ToolTip": "C:\\dotnetApps\\PeopleStore\\PeopleStore.Server\\Program.cs",
+              "RelativeToolTip": "PeopleStore.Server\\Program.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAABsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T21:00:40.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\dotnetApps\\PeopleStore\\PeopleStore.Server\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "PeopleStore.Server\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\dotnetApps\\PeopleStore\\PeopleStore.Server\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "PeopleStore.Server\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvxUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T20:28:42.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\dotnetApps\\PeopleStore\\peoplestore.client\\.gitignore",
+              "RelativeDocumentMoniker": "peoplestore.client\\.gitignore",
+              "ToolTip": "C:\\dotnetApps\\PeopleStore\\peoplestore.client\\.gitignore",
+              "RelativeToolTip": "peoplestore.client\\.gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-18T02:51:19.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\dotnetApps\\PeopleStore\\PeopleStore.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "PeopleStore.Server\\appsettings.json",
+              "ToolTip": "C:\\dotnetApps\\PeopleStore\\PeopleStore.Server\\appsettings.json",
+              "RelativeToolTip": "PeopleStore.Server\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-18T19:50:12.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\dotnetApps\\PeopleStore\\PeopleStore.Server\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "PeopleStore.Server\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\dotnetApps\\PeopleStore\\PeopleStore.Server\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "PeopleStore.Server\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-18T02:57:46.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\dotnetApps\\PeopleStore\\PeopleStore.Server\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "PeopleStore.Server\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\dotnetApps\\PeopleStore\\PeopleStore.Server\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "PeopleStore.Server\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-18T02:57:42.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\dotnetApps\\PeopleStore\\PeopleStore.Server\\Views\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "PeopleStore.Server\\Views\\Categories\\Create.cshtml",
+              "ToolTip": "C:\\dotnetApps\\PeopleStore\\PeopleStore.Server\\Views\\Categories\\Create.cshtml",
+              "RelativeToolTip": "PeopleStore.Server\\Views\\Categories\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-18T02:57:37.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\dotnetApps\\PeopleStore\\PeopleStore.Server\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "PeopleStore.Server\\Models\\Category.cs",
+              "ToolTip": "C:\\dotnetApps\\PeopleStore\\PeopleStore.Server\\Models\\Category.cs",
+              "RelativeToolTip": "PeopleStore.Server\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T17:20:42.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\dotnetApps\\PeopleStore\\PeopleStore.Server\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "PeopleStore.Server\\Models\\Cart.cs",
+              "ToolTip": "C:\\dotnetApps\\PeopleStore\\PeopleStore.Server\\Models\\Cart.cs",
+              "RelativeToolTip": "PeopleStore.Server\\Models\\Cart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T17:23:30.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\dotnetApps\\PeopleStore\\PeopleStore.Server\\Data\\Extensions.cs",
+              "RelativeDocumentMoniker": "PeopleStore.Server\\Data\\Extensions.cs",
+              "ToolTip": "C:\\dotnetApps\\PeopleStore\\PeopleStore.Server\\Data\\Extensions.cs",
+              "RelativeToolTip": "PeopleStore.Server\\Data\\Extensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T23:08:54.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\dotnetApps\\PeopleStore\\PeopleStore.Server\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "PeopleStore.Server\\Data\\DbInitializer.cs",
+              "ToolTip": "C:\\dotnetApps\\PeopleStore\\PeopleStore.Server\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "PeopleStore.Server\\Data\\DbInitializer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T22:57:22.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\dotnetApps\\PeopleStore\\PeopleStore.Server\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "PeopleStore.Server\\Models\\Product.cs",
+              "ToolTip": "C:\\dotnetApps\\PeopleStore\\PeopleStore.Server\\Models\\Product.cs",
+              "RelativeToolTip": "PeopleStore.Server\\Models\\Product.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T17:18:20.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoriesService.cs",
+              "DocumentMoniker": "C:\\dotnetApps\\PeopleStore\\PeopleStore.Server\\Services\\CategoriesService.cs",
+              "RelativeDocumentMoniker": "PeopleStore.Server\\Services\\CategoriesService.cs",
+              "ToolTip": "C:\\dotnetApps\\PeopleStore\\PeopleStore.Server\\Services\\CategoriesService.cs",
+              "RelativeToolTip": "PeopleStore.Server\\Services\\CategoriesService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T20:04:32.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductsService.cs",
+              "DocumentMoniker": "C:\\dotnetApps\\PeopleStore\\PeopleStore.Server\\Services\\ProductsService.cs",
+              "RelativeDocumentMoniker": "PeopleStore.Server\\Services\\ProductsService.cs",
+              "ToolTip": "C:\\dotnetApps\\PeopleStore\\PeopleStore.Server\\Services\\ProductsService.cs",
+              "RelativeToolTip": "PeopleStore.Server\\Services\\ProductsService.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAA9wCcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T18:17:45.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\dotnetApps\\PeopleStore\\PeopleStore.Server\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "PeopleStore.Server\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\dotnetApps\\PeopleStore\\PeopleStore.Server\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "PeopleStore.Server\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T04:13:00.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\dotnetApps\\PeopleStore\\PeopleStore.Server\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "PeopleStore.Server\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\dotnetApps\\PeopleStore\\PeopleStore.Server\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "PeopleStore.Server\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAowDMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T14:21:12.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LogoutController.cs",
+              "DocumentMoniker": "C:\\dotnetApps\\PeopleStore\\PeopleStore.Server\\Controllers\\LogoutController.cs",
+              "RelativeDocumentMoniker": "PeopleStore.Server\\Controllers\\LogoutController.cs",
+              "ToolTip": "C:\\dotnetApps\\PeopleStore\\PeopleStore.Server\\Controllers\\LogoutController.cs",
+              "RelativeToolTip": "PeopleStore.Server\\Controllers\\LogoutController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAmwBgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T17:03:04.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\dotnetApps\\PeopleStore\\PeopleStore.Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PeopleStore.Server\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\dotnetApps\\PeopleStore\\PeopleStore.Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PeopleStore.Server\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAvwBoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-02T00:08:58.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "vite.config.js",
+              "DocumentMoniker": "C:\\dotnetApps\\PeopleStore\\peoplestore.client\\vite.config.js",
+              "RelativeDocumentMoniker": "peoplestore.client\\vite.config.js",
+              "ToolTip": "C:\\dotnetApps\\PeopleStore\\peoplestore.client\\vite.config.js",
+              "RelativeToolTip": "peoplestore.client\\vite.config.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-30T16:26:39.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\dotnetApps\\PeopleStore\\peoplestore.client\\README.md",
+              "RelativeDocumentMoniker": "peoplestore.client\\README.md",
+              "ToolTip": "C:\\dotnetApps\\PeopleStore\\peoplestore.client\\README.md",
+              "RelativeToolTip": "peoplestore.client\\README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-07-18T02:51:50.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "package-lock.json",
+              "DocumentMoniker": "C:\\dotnetApps\\PeopleStore\\peoplestore.client\\package-lock.json",
+              "RelativeDocumentMoniker": "peoplestore.client\\package-lock.json",
+              "ToolTip": "C:\\dotnetApps\\PeopleStore\\peoplestore.client\\package-lock.json",
+              "RelativeToolTip": "peoplestore.client\\package-lock.json",
+              "ViewState": "AQIAAGcCAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-18T02:51:28.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\dotnetApps\\PeopleStore\\peoplestore.client\\package.json",
+              "RelativeDocumentMoniker": "peoplestore.client\\package.json",
+              "ToolTip": "C:\\dotnetApps\\PeopleStore\\peoplestore.client\\package.json",
+              "RelativeToolTip": "peoplestore.client\\package.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-18T02:51:24.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "NotFound.vue",
+              "DocumentMoniker": "C:\\dotnetApps\\PeopleStore\\peoplestore.client\\src\\components\\NotFound.vue",
+              "RelativeDocumentMoniker": "peoplestore.client\\src\\components\\NotFound.vue",
+              "ToolTip": "C:\\dotnetApps\\PeopleStore\\peoplestore.client\\src\\components\\NotFound.vue",
+              "RelativeToolTip": "peoplestore.client\\src\\components\\NotFound.vue",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2024-07-18T02:48:59.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Home.vue",
+              "DocumentMoniker": "C:\\dotnetApps\\PeopleStore\\peoplestore.client\\src\\components\\Home.vue",
+              "RelativeDocumentMoniker": "peoplestore.client\\src\\components\\Home.vue",
+              "ToolTip": "C:\\dotnetApps\\PeopleStore\\peoplestore.client\\src\\components\\Home.vue",
+              "RelativeToolTip": "peoplestore.client\\src\\components\\Home.vue",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2024-07-02T23:20:01.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "main.css",
+              "DocumentMoniker": "C:\\dotnetApps\\PeopleStore\\peoplestore.client\\src\\assets\\main.css",
+              "RelativeDocumentMoniker": "peoplestore.client\\src\\assets\\main.css",
+              "ToolTip": "C:\\dotnetApps\\PeopleStore\\peoplestore.client\\src\\assets\\main.css",
+              "RelativeToolTip": "peoplestore.client\\src\\assets\\main.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-28T23:17:30.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "logo.svg",
+              "DocumentMoniker": "C:\\dotnetApps\\PeopleStore\\peoplestore.client\\src\\assets\\logo.svg",
+              "RelativeDocumentMoniker": "peoplestore.client\\src\\assets\\logo.svg",
+              "ToolTip": "C:\\dotnetApps\\PeopleStore\\peoplestore.client\\src\\assets\\logo.svg",
+              "RelativeToolTip": "peoplestore.client\\src\\assets\\logo.svg",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQKSURBVDhPrVRbTCNVGP5OOzO9TKEWSrGUttpdpV2ua7ioaDa7ullcdVe8rHFNjPFBY4hGY0wIJprw5ItmCdEXL/FRE4MQsw9LiCthIcFFxA3hFiEsLQUKpaW03XZmOuOZaQsY9W2/5J/zz3/55j///OfgrkJRFFJQD9DX13elrq7uXVWnfk2KugpZlpHJZJBKpYa6u7u7gsFgWHP8HyjhHE2Sc7ncf4okSfLMzIw8NTUl9/f3/xgIBGoKqRr0hfUAHR0dXW1tbXaZFiQJccjpWyDJbyBsfQ9x46oW81dIRHNLG0wmk4/juOr19fVbUQrV9w9CrvVl4m9s7VpIG\u002BxL6\u002BMolb6EaesrSOFhgNRAVtyQIhMIbgPeB1ths9kYs9l8vKyszD0/P39jnyJPSAj4hy7YPE\u002B/\u002BUmJ0/NkS4DlzlRegXXzGmZWmvBT4j0sGy6jvvE85O05JEUeN6ZXMT09jUQioafEgdHR0R/i8XiYUfmMdees3ovvfPhEc/VbL9Qvm5vljxBdTGM81YMl33MICiZMLG8iJa7iRUct/I3HUA0HBEGAxWLB7OysVpcKnfpwdLzd3haoePVS7WRpS/oDsjeTwTrpRbqiE2wK4EUJnvuqcHM7h7HY/SAlHtjt5XA6nbBardDr9QdToBF6nZbOZ/1z5Q3i52RnSoS54TvUP9yJSyedeKXBjuTGNmycAYQ3YSrKYiejpVFQkiOjpULb8omK\u002BOOPWL81JVeM\u002BEL8GKFfWYjSn/Qn0GDQucsxKGd0YDkWK9tZxPYFVJUaVS7a/8MZVcFUORnu9YZr1ezaMrmu\u002B1ThW84Sn0IrKATlSRWIdwTaMxFZSYKk2jS36skTFkmZ0ILnYmzlZ8Nk8g1lzn0u99vEor6p0kwUeiLUIJVQTSR0MF202ka3BQ4Lp9nydHnCIhglEX5p67Yrez13GmJKYXgTq2v32clJFw\u002BrkUEiI2JyNYa1WFrNhNtmhoXaDzkOyVQwmVCmPZYy/DK\u002ByZzwMHFvpc9FhjfSGF7agkK3yHAMcpZyxHJm7EZ28ZSOgKVShFb/kQp10h4xne/JXg5v7ny2OLcSvb2xrwh8CeicgBx/AFmXFxF6h0QiUfiMEp6pqwSnL/7lf0Pf8xocp\u002B6N\u002BW6OL4x5nayYjIv\u002BRFLmQ5E9RHfiuBPdBbu/h9p7GLx/\u002BhjKeNo/erK02mhlhOpra2sYHBz8mp6asJ7O62R4E2cC3NYpV2Rs1lndaD776GN\u002BB5tDjZVBaxWPC7UOPN9UBSOrTVl\u002Bn4VdE52OEgYxNDSkEeatR9Db2zumXl\u002BiKBZEkEUhL/SoFSR7sKoxIyMjstvtblHzC588BG3w7wMDA\u002B0FXRP1Ui02vmgrigpa2R902dVe7i6AvwHcTSP/8z9AyQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-07-18T02:46:45.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MyAccount.vue",
+              "DocumentMoniker": "C:\\dotnetApps\\PeopleStore\\peoplestore.client\\src\\components\\MyAccount.vue",
+              "RelativeDocumentMoniker": "peoplestore.client\\src\\components\\MyAccount.vue",
+              "ToolTip": "C:\\dotnetApps\\PeopleStore\\peoplestore.client\\src\\components\\MyAccount.vue",
+              "RelativeToolTip": "peoplestore.client\\src\\components\\MyAccount.vue",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2024-07-03T00:22:19.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserRegistration.vue",
+              "DocumentMoniker": "C:\\dotnetApps\\PeopleStore\\peoplestore.client\\src\\components\\UserRegistration.vue",
+              "RelativeDocumentMoniker": "peoplestore.client\\src\\components\\UserRegistration.vue",
+              "ToolTip": "C:\\dotnetApps\\PeopleStore\\peoplestore.client\\src\\components\\UserRegistration.vue",
+              "RelativeToolTip": "peoplestore.client\\src\\components\\UserRegistration.vue",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2024-07-10T00:31:33.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "cart.js",
+              "DocumentMoniker": "C:\\dotnetApps\\PeopleStore\\peoplestore.client\\src\\store\\cart.js",
+              "RelativeDocumentMoniker": "peoplestore.client\\src\\store\\cart.js",
+              "ToolTip": "C:\\dotnetApps\\PeopleStore\\peoplestore.client\\src\\store\\cart.js",
+              "RelativeToolTip": "peoplestore.client\\src\\store\\cart.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-13T16:09:29.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "App.vue",
+              "DocumentMoniker": "C:\\dotnetApps\\PeopleStore\\peoplestore.client\\src\\App.vue",
+              "RelativeDocumentMoniker": "peoplestore.client\\src\\App.vue",
+              "ToolTip": "C:\\dotnetApps\\PeopleStore\\peoplestore.client\\src\\App.vue",
+              "RelativeToolTip": "peoplestore.client\\src\\App.vue",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2024-06-27T23:04:35.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "main.js",
+              "DocumentMoniker": "C:\\dotnetApps\\PeopleStore\\peoplestore.client\\src\\main.js",
+              "RelativeDocumentMoniker": "peoplestore.client\\src\\main.js",
+              "ToolTip": "C:\\dotnetApps\\PeopleStore\\peoplestore.client\\src\\main.js",
+              "RelativeToolTip": "peoplestore.client\\src\\main.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-27T23:04:30.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "base.css",
+              "DocumentMoniker": "C:\\dotnetApps\\PeopleStore\\peoplestore.client\\src\\assets\\base.css",
+              "RelativeDocumentMoniker": "peoplestore.client\\src\\assets\\base.css",
+              "ToolTip": "C:\\dotnetApps\\PeopleStore\\peoplestore.client\\src\\assets\\base.css",
+              "RelativeToolTip": "peoplestore.client\\src\\assets\\base.css",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-18T02:46:40.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "DocumentMoniker": "C:\\dotnetApps\\PeopleStore\\peoplestore.client\\public\\favicon.ico",
+              "RelativeDocumentMoniker": "peoplestore.client\\public\\favicon.ico",
+              "ToolTip": "C:\\dotnetApps\\PeopleStore\\peoplestore.client\\public\\favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "RelativeToolTip": "peoplestore.client\\public\\favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2024-07-18T02:46:36.223Z",
+              "EditorCaption": " - Icon [32x32, 32 bit, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "launch.json",
+              "DocumentMoniker": "C:\\dotnetApps\\PeopleStore\\peoplestore.client\\.vscode\\launch.json",
+              "RelativeDocumentMoniker": "peoplestore.client\\.vscode\\launch.json",
+              "ToolTip": "C:\\dotnetApps\\PeopleStore\\peoplestore.client\\.vscode\\launch.json",
+              "RelativeToolTip": "peoplestore.client\\.vscode\\launch.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-18T02:46:29.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "reactivity.esm-bundler.js",
+              "DocumentMoniker": "C:\\dotnetApps\\PeopleStore\\peoplestore.client\\node_modules\\@vue\\reactivity\\dist\\reactivity.esm-bundler.js",
+              "RelativeDocumentMoniker": "peoplestore.client\\node_modules\\@vue\\reactivity\\dist\\reactivity.esm-bundler.js",
+              "ToolTip": "C:\\dotnetApps\\PeopleStore\\peoplestore.client\\node_modules\\@vue\\reactivity\\dist\\reactivity.esm-bundler.js",
+              "RelativeToolTip": "peoplestore.client\\node_modules\\@vue\\reactivity\\dist\\reactivity.esm-bundler.js",
+              "ViewState": "AQIAAFcEAAAAAAAAAIAzwGAEAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-09T20:12:21.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "jsconfig.json",
+              "DocumentMoniker": "C:\\dotnetApps\\PeopleStore\\peoplestore.client\\jsconfig.json",
+              "RelativeDocumentMoniker": "peoplestore.client\\jsconfig.json",
+              "ToolTip": "C:\\dotnetApps\\PeopleStore\\peoplestore.client\\jsconfig.json",
+              "RelativeToolTip": "peoplestore.client\\jsconfig.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-01T23:08:58.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\dotnetApps\\PeopleStore\\peoplestore.client\\index.html",
+              "RelativeDocumentMoniker": "peoplestore.client\\index.html",
+              "ToolTip": "C:\\dotnetApps\\PeopleStore\\peoplestore.client\\index.html",
+              "RelativeToolTip": "peoplestore.client\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-27T23:04:15.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "PeopleStore.Server.csproj",
+              "DocumentMoniker": "C:\\dotnetApps\\PeopleStore\\PeopleStore.Server\\PeopleStore.Server.csproj",
+              "RelativeDocumentMoniker": "PeopleStore.Server\\PeopleStore.Server.csproj",
+              "ToolTip": "C:\\dotnetApps\\PeopleStore\\PeopleStore.Server\\PeopleStore.Server.csproj",
+              "RelativeToolTip": "PeopleStore.Server\\PeopleStore.Server.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-26T04:08:54.127Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

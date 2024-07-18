@@ -1,0 +1,1 @@
+C:\dotnetApps\PeopleStore\peoplestore.client\obj\Debug\peoplestore.client.esproj.CoreCompileInputs.cache

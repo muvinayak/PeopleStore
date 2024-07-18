@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Name": "PeopleStore.Server\\PeopleStore.Server.csproj",
+        "Action": "Start"
+      },
+      {
+        "Name": "peoplestore.client\\peoplestore.client.esproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
