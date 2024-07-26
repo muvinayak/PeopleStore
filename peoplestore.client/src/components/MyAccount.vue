@@ -11,8 +11,8 @@
         </div>
     </div>
     <div v-else>
-        <UserRegistration></UserRegistration>
-        <UserLogin></UserLogin>
+        <UserRegistration />
+        <UserLogin />
     </div>
 
 </template>

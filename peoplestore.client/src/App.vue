@@ -34,9 +34,7 @@ window.addEventListener('hashchange', () => {
     </header>
 
     <main>
-        <Suspense>
-            <component :is="currentTab" />
-        </Suspense>
+        <RouterView />
     </main>
 </template>
 

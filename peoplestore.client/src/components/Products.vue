@@ -5,10 +5,16 @@
     import { storeToRefs } from 'pinia'
     import { useCartStore } from '../store/cart'
 
+    const props = defineProps({
+                    id: String
+                  })
+
     const categoriesStore = useCategoriesStore()
     const cartStore = useCartStore()
     const { selectedCategoryId, selectedCategoryName } = storeToRefs(categoriesStore)
     const products = ref([])
+
+    selectedCategoryId.value = parseInt(props.id)
 
     const GetProductsByCategory = async () => {
         await axios.get(`https://localhost:7071/api/Products/GetProductsByCatgory/${selectedCategoryId.value}`)
@@ -29,8 +35,8 @@
 
     GetProductsByCategory()
 
-    watch(selectedCategoryId, () => {
-
+    watch(() => props.id, (newValue, oldValue) => {
+        selectedCategoryId.value = parseInt(props.id)
         GetProductsByCategory()
     })
 
@@ -57,7 +63,9 @@
         </tbody>
     </table>
 
-    <div class="mt-4 mb-3 text-center fs-3"><a class="btn btn-outline-primary" href="#/addProduct" @click="AddNewProduct">Add new product</a></div>
+    <div class="mt-4 mb-3 text-center fs-3">
+        <RouterLink class="btn btn-outline-primary" :to="{ name: 'addProduct' }">Add new product</RouterLink>
+    </div>
 
 
 </template>
